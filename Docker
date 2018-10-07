@@ -1,3 +1,5 @@
 Use "docker ps" to get the name of the existing container
 Use the command "docker exec -it <container name> /bin/bash" to get a bash shell in the container
 Generically, use "docker exec -it <container name> <command>" to execute whatever command you specify in the container.
+
+https://stackoverflow.com/questions/40948369/how-to-create-a-docker-image-of-centos-provisioned-with-apache
